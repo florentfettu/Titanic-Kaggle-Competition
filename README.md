@@ -8,4 +8,10 @@ This is the legendary Titanic ML competition – the best, first challenge for y
 > 
 > While there was some element of luck involved in surviving, it seems some groups of people were more likely to survive than > others. In this challenge, we ask you to build a predictive model that answers the question: “what sorts of people were more > likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc).
 
+## Goal
+Our job is to predict if a passenger survived the sinking of the Titanic or not. For each in the test set, we must predict a 0 or 1 value for the variable.
+
+## Metric
+Our score is the percentage of passengers we correctly predict. This is known as accuracy.
+
 source: https://www.kaggle.com/c/titanic
